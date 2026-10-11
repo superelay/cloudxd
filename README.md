@@ -1,7 +1,6 @@
 # CloudXD Package Repository
 
 > **Official Binary Release & One-Click Distribution Repository for CloudX**  
-> For source code, feature development, and build instructions, visit the main repository: [**superelay/cloudx**](https://github.com/superelay/cloudx).
 
 ---
 
@@ -147,5 +146,4 @@ The distributed packages install the following binaries and services:
 
 ## 🔗 Project Links
 
-- **Source Code Repository**: [https://github.com/superelay/cloudx](https://github.com/superelay/cloudx)
 - **Binary Distribution Repository**: [https://github.com/superelay/cloudxd](https://github.com/superelay/cloudxd)
