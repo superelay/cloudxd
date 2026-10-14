@@ -1,6 +1,7 @@
 # CloudXD Package Repository
 
 > **Official Binary Release & One-Click Distribution Repository for CloudX**  
+> **Latest Release Candidate:** [`v1.0.0-rc1` Feature Specification & Release Notes](RELEASE-v1.0.0-rc1.md)  
 
 ---
 
