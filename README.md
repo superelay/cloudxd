@@ -124,9 +124,9 @@ curl -fsSL https://raw.githubusercontent.com/superelay/cloudxd/main/SHA256SUMS |
 
 | Package File | Target OS / Architecture | SHA-256 Checksum |
 | :--- | :--- | :--- |
-| `cloudx_1.0.0_amd64.deb` | Ubuntu 22.04/24.04, Debian 12 (amd64) | `2f4e1735567f18890880a1654f60e9b05efe3f0588cad66160173d4dd54fb179` |
-| `cloudx-1.0.0-1.el10.x86_64.rpm` | Rocky Linux 10, AlmaLinux 10, RHEL 10 (x86_64) | `3e2bb4e0910624586cce692ea13535700ba9308ad1c6ed22cb1fb4206964824e` |
-| `cloudx-1.0.0-1.el9.x86_64.rpm` | Rocky Linux 9, AlmaLinux 9, RHEL 9 (x86_64) | `3e2bb4e0910624586cce692ea13535700ba9308ad1c6ed22cb1fb4206964824e` |
+| `cloudx_1.0.0_amd64.deb` | Ubuntu 22.04/24.04, Debian 12 (amd64) | `e1387785e83c18b255712b59251d980383e64b46ef9da676fcc3264e871f274c` |
+| `cloudx-1.0.0-1.el10.x86_64.rpm` | Rocky Linux 10, AlmaLinux 10, RHEL 10 (x86_64) | `dffb15f7e6308b47ff923df80cbd05f933985fd053a8b492ca695b8c1fb589c3` |
+| `cloudx-1.0.0-1.el9.x86_64.rpm` | Rocky Linux 9, AlmaLinux 9, RHEL 9 (x86_64) | `dffb15f7e6308b47ff923df80cbd05f933985fd053a8b492ca695b8c1fb589c3` |
 
 ---
 
